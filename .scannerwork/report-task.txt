@@ -1,0 +1,6 @@
+projectKey=flask_project
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=flask_project
+ceTaskId=dfe844e7-8134-4bbe-80e3-dd275db680b2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=dfe844e7-8134-4bbe-80e3-dd275db680b2
